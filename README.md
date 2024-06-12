@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! My name is Cristian Oporta</h2>
 
-<p>I'm a passionate Software Developer from Nicaragua.</p>
+<p>I'm a passionate Software Developer, from Nicaragua 😎.</p>
 <p>I'm so excited to learn more technologies and gain everything this field has to offer!</p>
 
 ###
 
-<h2 align="left">Visitor Count</h2>
+<h2 align="left">Visitor Count 🕒</h2>
 <img src="https://profile-counter.glitch.me/crisoporta/count.svg" />
 
 ###
