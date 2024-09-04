@@ -93,7 +93,7 @@
 ###
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning .NET Framework
+- 🌱 I’m currently learning .NET 
 - 👯 I’m looking to collaborate on Microsoft 
 - 📫 How to reach me: crisoporta@outlook.com
 - ⚡ Fun fact: Keep learning
